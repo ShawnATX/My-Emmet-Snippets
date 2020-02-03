@@ -7,9 +7,6 @@
     },
     "css": {
         "snippets": {
-            "cb": "color: black",
-            "bsd": "border: 1px solid ${1:red}",
-            "ls": "list-style: ${1}"
         }
     }
 }
